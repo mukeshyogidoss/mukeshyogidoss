@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Mukesh
 
-I'm an React Native Mobile Developer
+I'm an React Native Mobile App Developer
 <img align="right" width="370" height="340" src="https://c.tenor.com/5ry-200hErMAAAAd/tenor.gif">
                                             
 
