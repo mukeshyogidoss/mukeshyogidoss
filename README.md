@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Mukesh
 
 I'm an React Native Mobile Developer
-<img align="right" width="370" height="340" src="https://s1.ezgif.com/tmp/ezgif-191dfffba4c3aff3.gif">
+<img align="right" width="370" height="340" src="https://c.tenor.com/5ry-200hErMAAAAd/tenor.gif">
                                             
 
 - 🎓 Currently pursing **BCA at Ramakrishan Mission Vivekananda College** [<img src="https://i0.wp.com/rkmvc.ac.in/wp-content/uploads/2019/02/logo.png?resize=300%2C300&ssl=1" height="44" >](https://rkmvc.ac.in/),
