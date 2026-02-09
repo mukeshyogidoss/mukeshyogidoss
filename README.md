@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Mukesh
 
 I'm an React Native Mobile App Developer
-<img align="right" width="300" height="300" src="https://c.tenor.com/5ry-200hErMAAAAd/tenor.gif">
+<img align="right" width="400" height="400" src="https://cdn.dribbble.com/userupload/24343475/file/original-93eccd85db71370c542e86f05641dcea.gif" >
                                             
 
 - 🎓 Currently pursing **BCA at Ramakrishan Mission Vivekananda College** [<img src="https://i0.wp.com/rkmvc.ac.in/wp-content/uploads/2019/02/logo.png?resize=300%2C300&ssl=1" height="44" >](https://rkmvc.ac.in/),
@@ -13,10 +13,10 @@ I'm an React Native Mobile App Developer
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" /> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=24465&format=png&color=000000" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000"/>
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/?size=100&id=7ImWFDcPfSlz&format=png&color=EBEBEB"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
 
 
 
