@@ -2,7 +2,7 @@
 
 I'm an React Native Mobile App Developer 
 <br />
-<img align="right" width="340" height="400" src="https://cdn.dribbble.com/userupload/24343475/file/original-93eccd85db71370c542e86f05641dcea.gif" >                                      
+<img align="right" width="320" height="400" src="https://cdn.dribbble.com/userupload/24343475/file/original-93eccd85db71370c542e86f05641dcea.gif" >                                      
 - 🎓 Currently pursing **BCA at Ramakrishan Mission Vivekananda College** [<img src="https://i0.wp.com/rkmvc.ac.in/wp-content/uploads/2019/02/logo.png?resize=300%2C300&ssl=1" height="44" >](https://rkmvc.ac.in/)
 - 💼 Internship at **Ramakrishna Math** as an **Apple Vision Pro App Developer**
 
