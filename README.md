@@ -6,7 +6,7 @@ I'm an React Native Mobile App Developer
 - 🎓 Currently pursing **BCA at Ramakrishan Mission Vivekananda College** [<img src="https://i0.wp.com/rkmvc.ac.in/wp-content/uploads/2019/02/logo.png?resize=300%2C300&ssl=1" height="44" >](https://rkmvc.ac.in/)
 - 💼 Internship at **Ramakrishna Math** as an **Apple Vision Pro App Developer**
 
-<br />
+<br /> 
 
 ### Social Presenece
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mukeshyogidoss/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/__.m.a.y.h.e.m.__/) <br/> [<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)" />](mailto:mukeshyogidoss@gmail.com)
