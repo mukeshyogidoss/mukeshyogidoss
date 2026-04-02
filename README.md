@@ -21,8 +21,8 @@ I'm an React Native Mobile App Developer
 
  
 
-### Github Activity
-[![Mukesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mukeshyogidoss&bg_color=212121&color=f5fff5&line=00801a&point=11ff00&area=true&hide_border=true)](https://github.com/mukeshyogidoss?tab=repositories)
+### Leetcode Activity
+![LeetCode Stats](https://leetcard.jacoblin.cool/mukeshyogidoss?theme=nord&font=Epilogue)
 
 [![Download Resume](https://img.shields.io/badge/⬇%20Download-Resume-blueviolet?style=for-the-badge)](Mukesh_Y_Resume.pdf)
 
