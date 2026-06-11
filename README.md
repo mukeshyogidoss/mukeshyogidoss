@@ -4,7 +4,7 @@ I'm a React Native Mobile App Developer
 
 <img align="right" width="365" height="320" src="https://cdn.dribbble.com/userupload/24343475/file/original-93eccd85db71370c542e86f05641dcea.gif">
 
-- 🎓 Currently pursuing **BCA at Ramakrishna Mission Vivekananda College**  
+- 🎓 Completed **BCA at Ramakrishna Mission Vivekananda College**  
 - 💼 Internship at **Ramakrishna Math** as an **Apple Vision Pro App Developer**
 
 ---
